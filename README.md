@@ -1,0 +1,1 @@
+# Vertica Database Source Control
