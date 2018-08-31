@@ -1,1 +1,1 @@
-# Vertica Database Source Control
+# Vertica Change Management
